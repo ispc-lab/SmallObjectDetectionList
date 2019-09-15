@@ -47,11 +47,11 @@ If you know of a paper that addresses an Vision-based Small Object Detection pro
 ## 1.1. Multiple feature maps fusion <a name="1.1"></a>  
 - MDSSD: Multi-scale Deconvolutional Single Shot Detector for Small Objects, arXiv 2018, [[paper]](https://arxiv.org/pdf/1805.07009.pdf)   
 - MR-CNN: A Multi-Scale Region-Based Convolutional Neural Network for Small Traffic Sign Recognition, IEEE Acess 2019, [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8701699)
-- Improving Tiny Vehicle Detection in Complex Scenes, IEEE ICME 2018, [[paper]](https://ieeexplore.ieee.org/application/enterprise/entconfirmation.jsp?arnumber=8486507&icp=false) NoPDF
+- Improving Tiny Vehicle Detection in Complex Scenes, IEEE ICME 2018, [[paper]](https://www.computer.org/csdl/proceedings-article/icme/2018/08486507/14jQfPe2Vca) NoPDF
 - Small Object Detection with Multiscale Features, Int. J. Digit. Multimedia Broadcast 2018, [[paper]](https://pdfs.semanticscholar.org/942e/386250587fc789d807093cc56f0a95f9798c.pdf?_ga=2.175036386.1996274586.1568206454-1908503646.1568206454)
-- A detection method for low-pixel ratio object, Multimed Tools Appl 2019, [[paper]](https://link.springer.com/article/10.1007/s11042-018-6653-6) NoPDF
-- Research on Small Size Object Detection in Complex Background, CAC 2018, [[paper]](https://www.semanticscholar.org/paper/Research-on-Small-Size-Object-Detection-in-Complex-Du-Qu/46b1f5b937e114be94d4359c7779372e09ddd122) NoPDF
-- Small Object Detection Using Deep Feature Pyramid Networks, PCM 2018, [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-00764-5_51) NoPDF 
+- A detection method for low-pixel ratio object, Multimed Tools Appl 2019, [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11042-018-6653-6.pdf)
+- Research on Small Size Object Detection in Complex Background, CAC 2018, [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8623078)
+- Small Object Detection Using Deep Feature Pyramid Networks, PCM 2018, [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-00764-5_51)
 - Multiple receptive fields and small-object-focusing weaklysupervised segmentation network for fast object detection, arXiv 2019, [[paper]](https://arxiv.org/ftp/arxiv/papers/1904/1904.12619.pdf)
 - A Block Object Detection Method Based on Feature Fusion Networks for Autonomous Vehicles, Complexity 2019, [[paper]](http://downloads.hindawi.com/journals/complexity/2019/4042624.pdf)
 - Small Object Sensitive Segmentation of Urban Street Scene with Spatial Adjacency Between Object Classes, IEEE TIP 2019, [[paper]](https://cse.sc.edu/~songwang/document/tip19b.pdf)
