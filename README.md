@@ -40,8 +40,14 @@ If you know of a paper that addresses an Vision-based Small Object Detection pro
 5.[Others](#5)    
 >5.1 [Traffic road object detection](#5.1)  
 5.2 [Small object detection in aerial image](#5.2)   
-5.3 [others](#5.3)  
-    
+5.3 [Others](#5.3) 
+ 
+ 6.[Datasets](#6)
+>6.1 [Common small object detection](#6.1)  
+6.2 [Datasets for single category](#6.2)   
+6.3 [Datasets for self-driving vehicles detection](#6.3)  
+6.4 [Datasets from aerial perspective](#6.4)   
+6.5 [Others](#6.5)
 # 1. Multi-scales representation <a name="1"></a>
 
 ## 1.1. Multiple feature maps fusion <a name="1.1"></a>  
@@ -127,6 +133,33 @@ If you know of a paper that addresses an Vision-based Small Object Detection pro
 - Small-objectness sensitive detection based on shifted single shot detector, Multimed Tools Appl 2019, [[paper]](https://link.springer.com/article/10.1007/s11042-018-6227-7)
 - CNN-based small object detection and visualization with feature activation mapping, IEEE IVCNZ 2017, [[paper]](https://ieeexplore.ieee.org/abstract/document/8402455)
 - Real-Time Detecting Method of Marine Small Object with Underwater Robot Vision,  IEEE OTO 2018, [[paper]](https://ieeexplore.ieee.org/abstract/document/8558804)
+
+# 6. Datasets <a name="4"></a>
+
+## 6.1. Common small object datasets <a name="6.1"></a> 
+- small object dataset, [[paper]](https://merl.com/publications/docs/TR2016-144.pdf)
+- MS COCO, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-10602-1_48)
+
+## 6.2. Datasets for single category <a name="6.2"></a>
+- WIDER FACE, [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Yang_WIDER_FACE_A_CVPR_2016_paper.pdf)
+- Spider, [[paper]](https://ieeexplore.ieee.org/abstract/document/8402455)
+- Small bird dataset, [[paper]](https://nae-lab.org/~rei/publication/trinh-wwec2016.pdf)
+
+## 6.3. Datasets for self-driving vehicles detection <a name="6.3"></a>
+- Lost and Found, [[paper]](https://arxiv.org/pdf/1609.04653.pdf)
+- Road garbage dataset, [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11042-018-6653-6.pdf)
+- SSMCAR, [[paper]](http://downloads.hindawi.com/journals/complexity/2019/4042624.pdf)
+- Swedish  TrafficSigns, [[paper]](https://link.springer.com/content/pdf/10.1007/978-3-642-21227-7_23.pdf)
+- Tsinghua-Tencent 100 K, [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.pdf)
+
+## 6.4. Datasets for aerial perspective <a name="6.4"></a>
+- UAVDT, [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dawei_Du_The_Unmanned_Aerial_ECCV_2018_paper.pdf)
+- Small vessel dataset, [[paper]](https://ieeexplore.ieee.org/abstract/document/8706233)
+- USC-GRAD-STDdb, [[paper]](http://bmvc2018.org/contents/papers/0897.pdf)
+
+## 6.5. Others <a name="6.5"></a>
+- FlickrLogos, [[paper]](http://www.multimedia-computing.de/flickrlogos/data_precomp/hesaff-sift/Scalable%20Logo%20Recognition%20in%20Real-World%20Images%20-%20ICMR2011.pdf)
+- DeepScores, [[paper]](https://arxiv.org/pdf/1804.00525.pdf)
 
 # Contact 
 Please contact Zida Song(szd16688@qq.com) for your questions about this webpage.
