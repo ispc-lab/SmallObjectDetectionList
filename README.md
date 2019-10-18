@@ -129,7 +129,6 @@ If you know of a paper that addresses an Vision-based Small Object Detection pro
 ## 6.2. Datasets for single category <a name="6.2"></a>
 - WIDER FACE, [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Yang_WIDER_FACE_A_CVPR_2016_paper.pdf)
 - Spider, [[paper]](https://ieeexplore.ieee.org/abstract/document/8402455)
-- Small bird dataset, [[paper]](https://nae-lab.org/~rei/publication/trinh-wwec2016.pdf)
 
 ## 6.3. Datasets for self-driving vehicles detection <a name="6.3"></a>
 - Lost and Found, [[paper]](https://arxiv.org/pdf/1609.04653.pdf)
