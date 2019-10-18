@@ -38,16 +38,14 @@ If you know of a paper that addresses an Vision-based Small Object Detection pro
 4.[Region-proposal](#4)    
 
 5.[Others](#5)    
->5.1 [Traffic road object detection](#5.1)  
-5.2 [Small object detection in aerial image](#5.2)   
-5.3 [Others](#5.3) 
+>5.1 [Traffic road object detection](#5.1)    
+5.2 [Others](#5.2) 
  
  6.[Datasets](#6)
 >6.1 [Common small object detection](#6.1)  
 6.2 [Datasets for single category](#6.2)   
 6.3 [Datasets for self-driving vehicles detection](#6.3)  
-6.4 [Datasets from aerial perspective](#6.4)   
-6.5 [Others](#6.5)
+6.4 [Others](#6.4)
 # 1. Multi-scales representation <a name="1"></a>
 
 ## 1.1. Multiple feature maps fusion <a name="1.1"></a>  
@@ -76,25 +74,21 @@ If you know of a paper that addresses an Vision-based Small Object Detection pro
 - ContextAware Single-Shot Detector, WACV 2018, [[paper]](https://arxiv.org/pdf/1707.08682.pdf)
 - Detecting Traffic Lights by Single Shot Detection, ITSC 2018, [[paper]](https://arxiv.org/pdf/1805.02523.pdf)
 - SCAN: Semantic Context Aware Network for Accurate Small Object Detection, IJCIS 2018, [[paper]](https://www.atlantis-press.com/journals/ijcis/25894607/view)
-- SINet: A ScaleInsensitive Convolutional Neural Network for Fast Vehicle Detection, IEEE ITS 2019, [[paper]](https://arxiv.org/pdf/1804.00433.pdf)
+- SINet: A Scale Insensitive Convolutional Neural Network for Fast Vehicle Detection, IEEE ITS 2019, [[paper]](https://arxiv.org/pdf/1804.00433.pdf)
 - Robust Obstacle Detection and Recognition for Driver Assistance Systems, IEEE ITS 2019, [[paper]](https://www.researchgate.net/profile/Jiaxu_Leng2/publication/332438373_Robust_Obstacle_Detection_and_Recognition_for_Driver_Assistance_Systems/links/5cbeb092a6fdcc1d49a87438/Robust-Obstacle-Detection-and-Recognition-for-Driver-Assistance-Systems.pdf)
-- Object Detection in Aerial Images Using Feature Fusion Deep Networks, IEEE Acess 2019, [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8661761)
-- Small Object Detection in Unmanned Aerial Vehicle Images Using Feature Fusion and Scaling-Based Single Shot Detector with Spatial Context Analysis, IEEE TCSVT 2019, [[paper]](https://ieeexplore.ieee.org/abstract/document/8672115) 
 - Small Object Detection Using Context Information Fusion in Faster R-CNN, IEEE ICCC 2018, [[paper]](https://ieeexplore.ieee.org/abstract/document/8780579)
 
 # 3. Super-Resolution <a name="3"></a>
 - JCS-Net: Joint Classification and SuperResolution Network for Small-scale Pedestrian Detection in Surveillance Images, IEEE TIFS 2019, [[paper]](https://ieeexplore.ieee.org/abstract/document/8714071) 
-- Accurate image superresolution using very deep convolutional networks, CVPR 2016, [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.pdf)
+- Accurate image super-resolution using very deep convolutional networks, CVPR 2016, [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.pdf)
 - Finding tiny faces in the wild with generative adversarial network, CVPR 2018, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Finding_Tiny_Faces_CVPR_2018_paper.pdf)
 - Multi-branch fully convolutional network for face detection, arXiv 2017, [[paper]](https://arxiv.org/pdf/1707.06330.pdf)
 - SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network, ECCV 2018, [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yongqiang_Zhang_SOD-MTGAN_Small_Object_ECCV_2018_paper.pdf)
 - Improving Small Object Detection, ACPR 2017, [[paper]](http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2017/Improving-SmallObject-Detection.pdf)
 - Perceptual Generative Adversarial Networks for Small Object Detection, CVPR 2017, [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Perceptual_Generative_Adversarial_CVPR_2017_paper.pdf)
-- Dynamic Up-Sampling Network for Small Airplane Landing Gear Detection, IEEE Access, [[paper]](https://ieeexplore.ieee.org/abstract/document/8766797)
 - Prior Knowledge Guided Small Object Detection on High-Resolution Images, IEEE ICIP 2019, [[paper]](https://ieeexplore.ieee.org/abstract/document/8802612)
 
 # 4. Region-Proposal <a name="4"></a>
-- STDnet: A ConvNet for Small Target Detection, BMVC 2018, [[paper]](http://bmvc2018.org/contents/papers/0897.pdf)
 - AttentionMask: Attentive, Efficient Object Proposal Generation Focusing on Small Objects, ACCV 2018, [[paper]](https://arxiv.org/pdf/1811.08728.pdf)
 - A PSO and BFO-Based Learning Strategy Applied to Faster R-CNN for Object Detection in Autonomous Driving, IEEE Access 2019, [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8633817)
 - Improving Small Object Proposals for Company Logo Detection, ICMR 2017, [[paper]](https://arxiv.org/pdf/1704.08881.pdf)
@@ -119,15 +113,7 @@ If you know of a paper that addresses an Vision-based Small Object Detection pro
 - Detecting Small Objects in Urban Settings Using SlimNet Model, IEEE TGRS 2019, [[paper]](https://ieeexplore.ieee.org/abstract/document/8746784)
 - Smaller Object Detection for Real-Time Embedded Traffic Flow Estimation Using Fish-Eye Cameras, IEEE ICIP 2019, [[paper]](https://ieeexplore.ieee.org/abstract/document/8803719)
 
-## 5.2. Small object detection in aerial image <a name="5.2"></a> 
-- Clustered Object Detection in Aerial Images, arXiv 2019, [[paper]](https://arxiv.org/pdf/1904.08008.pdf)
-- Pedestrian Detection in Aerial Images Using Vanishing Point Transformation and Deep Learning, IEEE ICIP 2018, [[paper]](https://ieeexplore.ieee.org/abstract/document/8451144) 
-- Small Target Detection for Search and Rescue Operations using Distributed Deep Learning and Synthetic Data Generation, arXiv 2019, [[paper]](https://arxiv.org/ftp/arxiv/papers/1904/1904.11619.pdf)
-- Differentiating Objects by Motion: Joint Detection and Tracking of Small Flying Objects, arXiv 2017, [[paper]](https://arxiv.org/pdf/1709.04666.pdf)
-- Combining deep features for object detection at various scales: finding small birds in landscape images, IPSJ CVA 2016, [[paper]](https://ipsjcva.springeropen.com/track/pdf/10.1186/s41074-016-0006-z)
-- The Power of Tiling for Small Object Detection, CVPR 2019, [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/UAVision/Unel_The_Power_of_Tiling_for_Small_Object_Detection_CVPRW_2019_paper.pdf)
-
-## 5.3. others <a name="5.3"></a> 
+## 5.2. others <a name="5.2"></a> 
 - An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection, CVPR 2019, [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Lee_An_Energy_and_GPU-Computation_Efficient_Backbone_Network_for_Real-Time_Object_CVPRW_2019_paper.pdf)
 - Evaluation of Deep Models for Real-Time Small Object Detection, ICONIP 2017, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-70090-8_53)
 - Small-objectness sensitive detection based on shifted single shot detector, Multimed Tools Appl 2019, [[paper]](https://link.springer.com/article/10.1007/s11042-018-6227-7)
@@ -152,12 +138,7 @@ If you know of a paper that addresses an Vision-based Small Object Detection pro
 - Swedish  TrafficSigns, [[paper]](https://link.springer.com/content/pdf/10.1007/978-3-642-21227-7_23.pdf)
 - Tsinghua-Tencent 100 K, [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.pdf)
 
-## 6.4. Datasets for aerial perspective <a name="6.4"></a>
-- UAVDT, [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dawei_Du_The_Unmanned_Aerial_ECCV_2018_paper.pdf)
-- Small vessel dataset, [[paper]](https://ieeexplore.ieee.org/abstract/document/8706233)
-- USC-GRAD-STDdb, [[paper]](http://bmvc2018.org/contents/papers/0897.pdf)
-
-## 6.5. Others <a name="6.5"></a>
+## 6.4. Others <a name="6.4"></a>
 - FlickrLogos, [[paper]](http://www.multimedia-computing.de/flickrlogos/data_precomp/hesaff-sift/Scalable%20Logo%20Recognition%20in%20Real-World%20Images%20-%20ICMR2011.pdf)
 - DeepScores, [[paper]](https://arxiv.org/pdf/1804.00525.pdf)
 
