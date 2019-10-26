@@ -142,4 +142,4 @@ If you know of a paper that addresses an Vision-based Small Object Detection pro
 - DeepScores, [[paper]](https://arxiv.org/pdf/1804.00525.pdf)
 
 # Contact 
-Please contact Zida Song(szd16688@qq.com) for your questions about this webpage.
+Please contact Zida Song(email:tj_autodrive@hotmail.com | szd16688@qq.com) for your questions about this webpage.
