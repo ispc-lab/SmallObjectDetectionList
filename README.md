@@ -10,7 +10,7 @@ BibTeX entry:
 @ARTICLE{,
        author = {},
         title = "{}",
-      journal = {},
+      journal = {TIP},
          year = "2019",
         month = "",
         pages = {},
@@ -142,4 +142,4 @@ If you know of a paper that addresses an Vision-based Small Object Detection pro
 - DeepScores, [[paper]](https://arxiv.org/pdf/1804.00525.pdf)
 
 # Contact 
-Please contact Zida Song(email:tj_autodrive@hotmail.com | szd16688@qq.com) for your questions about this webpage.
+Please contact Guang Chen (email:tj_autodrive@hotmail.com) | Zida Song(email:szd16688@qq.com) for your questions about this webpage.
