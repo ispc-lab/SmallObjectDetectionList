@@ -2,16 +2,14 @@
 List of the Papers Addressing Vision-based Small Object Detection, links to more than 50 papers are given below.(please cite the paper if you benefit from this repository):
 
 ``````````````````````````````
-### To be finished, need to change to ours when the survey is done
-Author, "Title", 2019.[[preprint]](link)
+### Submitted
 
 BibTeX entry:
 ```
 @ARTICLE{,
-       author = {},
-        title = "{}",
-      journal = {TIP},
-         year = "2019",
+        title = "{A Survey of the Four Pillars for Small Object Detection: Multi-scale Representation, Contextual Information, Super-resolution, and Region Proposal}",
+      journal = {IEEE Transactions on Systems, Man and Cybernetics: Systems},
+         year = "",
         month = "",
         pages = {},
           ee  = {},
