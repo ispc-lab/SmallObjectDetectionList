@@ -120,14 +120,14 @@ If you know of a paper that addresses an Vision-based Small Object Detection pro
 
 # 6. Datasets <a name="4"></a>
 
-## 6.1. Datasets for self-driving vehicles detection <a name="6.3"></a>
+## 6.1. Datasets for traffic road scene <a name="6.3"></a>
 - Lost and Found, [[paper]](https://arxiv.org/pdf/1609.04653.pdf)
 - Swedish Traffic Signs, [[paper]](https://link.springer.com/content/pdf/10.1007/978-3-642-21227-7_23.pdf)
 - Tsinghua-Tencent 100 K, [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.pdf)
 - GTSDB, [[paper]](https://ieeexplore.ieee.org/abstract/document/6706807)
 - CURE-TSD, [[paper]](https://arxiv.org/abs/1902.06857)
 
-## 6.1. Common small object datasets <a name="6.1"></a> 
+## 6.1. Datasets for generic small objects <a name="6.1"></a> 
 - Small Object Dataset, [[paper]](https://merl.com/publications/docs/TR2016-144.pdf)
 - CURE-OR, [[paper]](https://ieeexplore.ieee.org/abstract/document/8614053)
 
