@@ -40,10 +40,9 @@ If you know of a paper that addresses an Vision-based Small Object Detection pro
 5.2 [Others](#5.2) 
  
  6.[Datasets](#6)
->6.1 [Common small object detection](#6.1)  
-6.2 [Datasets for single category](#6.2)   
-6.3 [Datasets for self-driving vehicles detection](#6.3)  
-6.4 [Others](#6.4)
+>6.1 [Datasets for traffic road scene](#6.1)  
+6.2 [Datasets for generic small objects](#6.2)   
+6.3 [Datasets for single category](#6.3)  
 # 1. Multi-scales representation <a name="1"></a>
 
 ## 1.1. Multiple feature maps fusion <a name="1.1"></a>  
@@ -67,10 +66,11 @@ If you know of a paper that addresses an Vision-based Small Object Detection pro
 - VSSA-NET: Vertical Spatial Sequence Attention Network for Traffic Sign Detection, IEEE TIP 2019, [[paper]](https://arxiv.org/pdf/1905.01583.pdf)
 - R-CNN for Small Object Detection, ACCV 2016, [[paper]](https://merl.com/publications/docs/TR2016-144.pdf)
 - Detecting The Objects on The Road Using Modular Lightweight Network, arXiv 2019, [[paper]](https://arxiv.org/ftp/arxiv/papers/1811/1811.06641.pdf)
-- Feature-fused ssd: fast detection for small objects, ICGIP 2017, [[paper]](https://arxiv.org/ftp/arxiv/papers/1709/1709.05054.pdf)
+- Feature-fused ssd: fast detection for small objects, ICGIP 2017, [[paper]](https://arxiv.org/ftp/arxiv/papers/1709/1709.05054.pdf) [[code]](https://github.com/wnzhyee/Feature-Fused-SSD)
 - Spatial Memory for Context Reasoning in Object Detection, ICCV 2017, [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Spatial_Memory_for_ICCV_2017_paper.pdf)
+- P-CNN: Part-Based Convolutional Neural Networks for Fine-Grained Visual Categorization, IEEE TPAMI 2019, [[paper]](https://ieeexplore.ieee.org/abstract/document/8789527)
 - ContextAware Single-Shot Detector, WACV 2018, [[paper]](https://arxiv.org/pdf/1707.08682.pdf)
-- Detecting Traffic Lights by Single Shot Detection, ITSC 2018, [[paper]](https://arxiv.org/pdf/1805.02523.pdf)
+- Detecting Traffic Lights by Single Shot Detection, ITSC 2018, [[paper]](https://arxiv.org/pdf/1805.02523.pdf) [[code]](https://github.com/julimueller/tl_ssd)
 - SCAN: Semantic Context Aware Network for Accurate Small Object Detection, IJCIS 2018, [[paper]](https://www.atlantis-press.com/journals/ijcis/25894607/view)
 - SINet: A Scale Insensitive Convolutional Neural Network for Fast Vehicle Detection, IEEE ITS 2019, [[paper]](https://arxiv.org/pdf/1804.00433.pdf)
 - Robust Obstacle Detection and Recognition for Driver Assistance Systems, IEEE ITS 2019, [[paper]](https://www.researchgate.net/profile/Jiaxu_Leng2/publication/332438373_Robust_Obstacle_Detection_and_Recognition_for_Driver_Assistance_Systems/links/5cbeb092a6fdcc1d49a87438/Robust-Obstacle-Detection-and-Recognition-for-Driver-Assistance-Systems.pdf)
@@ -87,7 +87,7 @@ If you know of a paper that addresses an Vision-based Small Object Detection pro
 - Prior Knowledge Guided Small Object Detection on High-Resolution Images, IEEE ICIP 2019, [[paper]](https://ieeexplore.ieee.org/abstract/document/8802612)
 
 # 4. Region-Proposal <a name="4"></a>
-- AttentionMask: Attentive, Efficient Object Proposal Generation Focusing on Small Objects, ACCV 2018, [[paper]](https://arxiv.org/pdf/1811.08728.pdf)
+- AttentionMask: Attentive, Efficient Object Proposal Generation Focusing on Small Objects, ACCV 2018, [[paper]](https://arxiv.org/pdf/1811.08728.pdf) [[code]](https://github.com/chwilms/AttentionMask)
 - A PSO and BFO-Based Learning Strategy Applied to Faster R-CNN for Object Detection in Autonomous Driving, IEEE Access 2019, [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8633817)
 - Improving Small Object Proposals for Company Logo Detection, ICMR 2017, [[paper]](https://arxiv.org/pdf/1704.08881.pdf)
 - Augmentation for small object detection, arXiv 2019, [[paper]](https://arxiv.org/pdf/1902.07296)
@@ -120,24 +120,22 @@ If you know of a paper that addresses an Vision-based Small Object Detection pro
 
 # 6. Datasets <a name="4"></a>
 
-## 6.1. Common small object datasets <a name="6.1"></a> 
-- small object dataset, [[paper]](https://merl.com/publications/docs/TR2016-144.pdf)
-- MS COCO, [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-10602-1_48)
-
-## 6.2. Datasets for single category <a name="6.2"></a>
-- WIDER FACE, [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Yang_WIDER_FACE_A_CVPR_2016_paper.pdf)
-- Spider, [[paper]](https://ieeexplore.ieee.org/abstract/document/8402455)
-
-## 6.3. Datasets for self-driving vehicles detection <a name="6.3"></a>
+## 6.1. Datasets for self-driving vehicles detection <a name="6.3"></a>
 - Lost and Found, [[paper]](https://arxiv.org/pdf/1609.04653.pdf)
-- Road garbage dataset, [[paper]](https://link.springer.com/content/pdf/10.1007%2Fs11042-018-6653-6.pdf)
-- SSMCAR, [[paper]](http://downloads.hindawi.com/journals/complexity/2019/4042624.pdf)
-- Swedish  TrafficSigns, [[paper]](https://link.springer.com/content/pdf/10.1007/978-3-642-21227-7_23.pdf)
+- Swedish Traffic Signs, [[paper]](https://link.springer.com/content/pdf/10.1007/978-3-642-21227-7_23.pdf)
 - Tsinghua-Tencent 100 K, [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.pdf)
+- GTSDB, [[paper]](https://ieeexplore.ieee.org/abstract/document/6706807)
+- CURE-TSD, [[paper]](https://arxiv.org/abs/1902.06857)
 
-## 6.4. Others <a name="6.4"></a>
-- FlickrLogos, [[paper]](http://www.multimedia-computing.de/flickrlogos/data_precomp/hesaff-sift/Scalable%20Logo%20Recognition%20in%20Real-World%20Images%20-%20ICMR2011.pdf)
+## 6.1. Common small object datasets <a name="6.1"></a> 
+- Small Object Dataset, [[paper]](https://merl.com/publications/docs/TR2016-144.pdf)
+- CURE-OR, [[paper]](https://ieeexplore.ieee.org/abstract/document/8614053)
+
+## 6.3. Datasets for single category <a name="6.2"></a>
+- WIDER FACE, [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Yang_WIDER_FACE_A_CVPR_2016_paper.pdf)
 - DeepScores, [[paper]](https://arxiv.org/pdf/1804.00525.pdf)
+
+
 
 # Contact 
 Please contact Guang Chen (email:tj_autodrive@hotmail.com) | Zida Song(email:szd16688@qq.com) for your questions about this webpage.
