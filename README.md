@@ -7,12 +7,11 @@ List of the Papers Addressing Vision-based Small Object Detection, links to more
 BibTeX entry:
 ```
 @ARTICLE{,
-        title = "{A Survey of the Four Pillars for Small Object Detection: Multi-scale Representation, Contextual Information, Super-resolution, and Region Proposal}",
+        title = {A Survey of the Four Pillars for Small Object Detection: Multi-scale Representation, Contextual Information, Super-resolution, and Region Proposal},
       journal = {IEEE Transactions on Systems, Man and Cybernetics: Systems},
-         year = "",
-        month = "",
+         year = {2020},
         pages = {},
-          ee  = {},
+      author  = {Chen, Guang and Wang, Haitao and Chen, Kai and Li, Zhijun and Song, Zida and Liu, Yinlong and Chen, Wenkai and Knoll, Alois}, 
        eprint = {} 
 }
 ```
